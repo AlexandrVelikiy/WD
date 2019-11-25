@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7942e205-6d34-4bf6-b86f-ac405c4ebe2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/allpointsfps/allpointsfps/spiders/apfspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/allpointsfps/allpointsfps/spiders/apfspider.py" afterDir="false" />
-    </list>
+    <list default="true" id="7942e205-6d34-4bf6-b86f-ac405c4ebe2a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1573502511725</updated>
     </task>
+    <task id="LOCAL-00001" summary="Correct list of manufacturer'd">
+      <created>1574710373164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574710373164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +112,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Correct list of manufacturer'd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct list of manufacturer'd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
